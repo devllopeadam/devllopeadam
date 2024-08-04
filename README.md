@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devllopeadam&label=Profile%20views&color=0e75b6&style=flat" alt="devllopeadam" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://adam-dev-portfolio.vercel.app/#skills](https://adam-dev-portfolio.vercel.app/#skills)
+- 👨‍💻 All of my projects are available at [https://adam-dev-portfolio.vercel.app/](https://adam-dev-portfolio.vercel.app/)
 
 - 💬 Ask me about **react, sass**
 
