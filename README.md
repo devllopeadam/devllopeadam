@@ -124,6 +124,13 @@
       width="40"
       height="40" />
   </a>
+  <a href="https://redux-toolkit.js.org/"
+    target="_blank"
+    rel="noreferrer"> <img src="https://www.svgrepo.com/show/303557/redux-logo.svg"
+      alt="redux"
+      width="40"
+      height="40" />
+  </a>
 </p>
 <h3 align="left">Backend and Tools:</h3>
 <p align="left">
