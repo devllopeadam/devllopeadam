@@ -7,7 +7,7 @@
     alt="devllopeadam" /> </p>
 
 - 👨‍💻 All of my projects are available at
-[https://adam-dev-portfolio.vercel.app/](https://adam-dev-portfolio.vercel.app/)
+  [https://adam-dev-portfolio.vercel.app/](https://adam-dev-portfolio.vercel.app/)
 
 - 📫 How to reach me **jeniahadam@gmail.com**
 
@@ -27,7 +27,7 @@
       alt="https://www.linkedin.com/in/adam-jeniah-6753a9262/"
       height="30"
       width="40" /></a>
-  <a href="https://fb.com/https://web.facebook.com/adam.jeniah/?locale=fr_fr"
+  <a href="https://www.react-hook-form.com/"
     target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="https://web.facebook.com/adam.jeniah/?locale=fr_fr"
@@ -131,6 +131,13 @@
       width="40"
       height="40" />
   </a>
+  <a href="https://react-hook-form.com/"
+    target="_blank"
+    rel="noreferrer"> <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png"
+      alt="redux"
+      width="40"
+      height="40" />
+  </a>
 </p>
 <h3 align="left">Backend and Tools:</h3>
 <p align="left">
@@ -189,6 +196,13 @@
   <a href="https://github.com/"
     target="_blank"
     rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      alt="git"
+      width="40"
+      height="40" />
+  </a>
+  <a href="https://gitlab.com/"
+    target="_blank"
+    rel="noreferrer"> <img src="https://images.ctfassets.net/xz1dnu24egyd/1IRkfXmxo8VP2RAE5jiS1Q/ea2086675d87911b0ce2d34c354b3711/gitlab-logo-500.png"
       alt="git"
       width="40"
       height="40" />
