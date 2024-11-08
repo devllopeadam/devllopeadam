@@ -1,4 +1,4 @@
-<img src="Colorful Shapes Header Banner.png" />
+<img src="Intro.png" />
 <h1 align="center">Hi 👋, I'm Jeniah Adam</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
