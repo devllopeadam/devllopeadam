@@ -1,4 +1,4 @@
-<img src="Intro.png" />
+<img src="./Adam_dev.gif" />
 <h1 align="center">Hi 👋, I'm Jeniah Adam</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
