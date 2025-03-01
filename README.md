@@ -138,6 +138,13 @@
       width="40"
       height="40" />
   </a>
+  <a href="https://zod.dev/"
+    target="_blank"
+    rel="noreferrer"> <img src="https://zod.dev/logo.svg"
+      alt="redux"
+      width="40"
+      height="40" />
+  </a>
 </p>
 <h3 align="left">Backend and Tools:</h3>
 <p align="left">
@@ -158,6 +165,14 @@
       height="40" />
   </a>
   <a style="margin-left: 10px;"
+    href="https://laravel.com/"
+    target="_blank"
+    rel="noreferrer"> <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
+      alt="php"
+      width="40"
+      height="40" />
+  <a style="margin-left: 10px;"
     href="https://strapi.io/"
     target="_blank"
     rel="noreferrer"> <img
@@ -176,6 +191,14 @@
     target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql"
+      width="40"
+      height="40" />
+  </a>
+  <a style="margin-left: 10px;" href="https://www.mongodb.com/"
+    target="_blank"
+    rel="noreferrer"> <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"
       alt="mysql"
       width="40"
       height="40" />
@@ -203,6 +226,35 @@
   <a href="https://gitlab.com/"
     target="_blank"
     rel="noreferrer"> <img src="https://images.ctfassets.net/xz1dnu24egyd/1IRkfXmxo8VP2RAE5jiS1Q/ea2086675d87911b0ce2d34c354b3711/gitlab-logo-500.png"
+      alt="git"
+      width="40"
+      height="40" />
+  </a>
+</p>
+
+<h3 align="left">UI/UX Tools: </h3>
+
+<p align="left">
+  <a style="margin-right: 10px;"
+    href="https://www.figma.com/"
+    target="_blank"
+    rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+      alt="git"
+      width="40"
+      height="40" />
+  </a
+  <a style="margin-right: 10px;"
+    href="https://adobe.com/"
+    target="_blank"
+    rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
+      alt="git"
+      width="40"
+      height="40" />
+  </a>
+  <a style="margin-left: 10px;"
+    href="https://adobe.com/"
+    target="_blank"
+    rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968472.png"
       alt="git"
       width="40"
       height="40" />
