@@ -7,7 +7,7 @@
     alt="devllopeadam" /> </p>
 
 - 👨‍💻 All of my projects are available at
-  [https://adam-dev-portfolio.vercel.app/](https://adam-dev-portfolio.vercel.app/)
+  [https://adam-jeniah.me/](https://adam-jeniah.me/)
 
 - 📫 How to reach me **jeniahadam@gmail.com**
 
